@@ -3,7 +3,7 @@ package gic;
 public class hw1 {
 
     //*Превое задание*//*
-   public static void main(String[] args) {
+  /* public static void main(String[] args) {
             float fa = 1f;
             float fb = 2f;
             float fc = 3f;
@@ -15,9 +15,9 @@ public class hw1 {
           public static float calculate( float a, float b, float c, float d){
           return a * (b + (c / d));
             }
-
+*/
 /* Второе задание*/
-     public static void main(String[] args) {
+   /*  public static void main(String[] args) {
          int a = 1;
          int b = 12;
      System.out.print("Результат" + doThree(1, 12));
@@ -28,10 +28,10 @@ public class hw1 {
         int sum = a + b;
         if (sum > 10 && sum < 20) return true;
         else return false;
-          }
+          }*/
 
 /* Третье задание*/
-      public static void main(String[] args) {
+     /* public static void main(String[] args) {
           int a = 5;
           System.out.println(a < 0 ? "-" : "+");
       }
@@ -39,12 +39,12 @@ public class hw1 {
         return a >= 0;
     }
 
-    /*Четвертое задание*/
+    *//*Четвертое задание*//*
 
     public static String welcome(String name) {
         System.out.println("Привет, Аня");
         return "Привет, " + name + "!";
-    }
+    }*/
 
  }
 
